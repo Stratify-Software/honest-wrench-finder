@@ -41,12 +41,15 @@ const services = [
 ];
 
 const reviews = [
-  { text: "My experience with Matt was very positive. He's friendly, service was fast and professional, with very reasonable pricing. I will definitely be a repeat customer.", author: "Halton Hills Customer" },
-  { text: "Hard to find an honest, knowledgeable mechanic. Had an issue with my Toyota RAV4 randomly dying. Matt knew exactly the issue, how to solve it, and at a good price point. Highly recommend.", author: "RAV4 Owner" },
-  { text: "It is truly refreshing to find a mechanic I can trust. You went above and beyond with my Corolla. Thank you for the incredible service I received.", author: "Bryan V." },
-  { text: "Took my car on short notice, replaced the whole exhaust and tail pipe system. Super friendly and polite staff. Highly recommended.", author: "Brandon" },
-  { text: "Had my car serviced — they were honest and did the work for a good price. Would definitely recommend for any automotive repairs or service.", author: "Halton Hills Resident" },
-  { text: "Good friendly service, reasonably priced. I take my car here for servicing and tyres. I am very happy with Matt's Auto Service Centre.", author: "John W." },
+  { text: "I just recently took my wife's car to Matt's Auto Service Centre thanks in large part to suggestions from a Facebook group. We had an awesome experience here! Matt took the time to explain what the issue was and the course of action that was needed.", author: "Neil Nacita", meta: "Local Guide · 13 reviews" },
+  { text: "Needed a repair on the fly, as I was working out of town. Matt didn't hesitate to pull the truck in and take a look. Had me back on the road in no time! Thanks Matt's Auto Service.", author: "Stephen Bell", meta: "6 reviews" },
+  { text: "Nothing but A++ service!! From Start to Finish, Matt and the team provide an A.B.C.D (Above and Beyond the Call of Duty) service.", author: "Al Win", meta: "Local Guide · 78 reviews" },
+  { text: "Matt has been amazing to work with when dealing with my aging Mazda pickup. For the last 3 years, any time it's acted up I knew exactly who to call! Matt and his team are honest, straight shooting, and even though I now live in Toronto he's the only mechanic for me.", author: "Taylor Grist", meta: "13 reviews" },
+  { text: "Looking for repair? Look no further! Matt is a trained hardworking mechanic that truly looks into the best interests of his customers. I am so happy that I chose to get my vehicle fixed here as it drives like it came off the assembly belt.", author: "Jack Hunter-Buffington", meta: "Local Guide · 19 reviews" },
+  { text: "I have been going to Matt for the last three years, he looks after my 3 cars. He is knowledgeable, honest, and very friendly. I have recommended him to my friends and family. His shop is only a few kilometres away from my house so it's a plus point.", author: "Shabbir Kuvawala", meta: "Local Guide · 59 reviews" },
+  { text: "Excellent mechanic and great customer service. Super honest and explains things clearly, plus pricing is very fair. Highly recommended for anyone that is intimidated by going to auto repair shops.", author: "Anne T", meta: "3 reviews" },
+  { text: "I've had Matt do a couple of jobs for me as he came highly recommended and he did not disappoint. He did the jobs I asked in a very timely fashion and at a very reasonable price. There are still a few honest mechanics around and Matt is for sure one of them.", author: "Kennet Andersson", meta: "Local Guide · 21 reviews" },
+  { text: "Hard to find an honest, knowledgeable mechanic. Had an issue with my Toyota RAV4 randomly dying. Matt knew exactly the issue, how to solve it, and at a good price point. Highly recommend!", author: "Patrick Pie", meta: "6 reviews" },
 ];
 
 const hours: Array<[string, string]> = [
