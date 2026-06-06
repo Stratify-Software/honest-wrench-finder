@@ -188,9 +188,9 @@ function Index() {
           </div>
           <div className="why-visual">
             <p className="why-visual-quote">
-              I had Matt replace the timing belt, water pump, and accessory belt on my RDX. The repair was done on time, as promised. The cost was half of the dealership. He even snapped photos of things to keep an eye on.
+              I had Matt replace the timing belt, water pump, acc belt and more on my RDX. The repair was done on time as promised. The cost was half of the dealership. He snapped a couple of pictures of things I should keep an eye on.
             </p>
-            <div className="why-visual-author">— John</div>
+            <div className="why-visual-author">— Christopher Harrilal</div>
             <div className="why-visual-role">Halton Hills · Verified Google Review</div>
           </div>
         </div>
