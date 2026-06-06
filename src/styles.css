@@ -442,6 +442,11 @@ nav.site-nav {
   color: rgba(245,240,232,0.35);
   margin-top: 3px;
 }
+.review-meta {
+  font-size: 0.78rem;
+  color: rgba(245,240,232,0.5);
+  margin-top: 2px;
+}
 .reviews-cta-row {
   margin-top: 56px;
   text-align: center;
