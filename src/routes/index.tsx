@@ -122,9 +122,9 @@ function Index() {
             <div className="hero-card">
               <div className="hero-card-stars">★★★★★</div>
               <p className="hero-card-quote">
-                "Looking for repair? Look no further. Matt is a trained, hardworking mechanic who truly looks out for his customers. My car drives like it just rolled off the assembly line."
+                "Looking for repair? Look no further! Matt is a trained hardworking mechanic that truly looks into the best interests of his customers. I am so happy that I chose to get my vehicle fixed here as it drives like it came off the assembly belt."
               </p>
-              <div className="hero-card-author">— Verified Google Review</div>
+              <div className="hero-card-author">— Jack Hunter-Buffington · Verified Google Review</div>
             </div>
           </div>
         </div>
