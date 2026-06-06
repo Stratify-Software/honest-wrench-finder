@@ -205,10 +205,11 @@ function Index() {
           </p>
           <div className="reviews-grid">
             {reviews.map((r) => (
-              <div className="review-card" key={r.author + r.text.slice(0, 12)}>
+              <div className="review-card" key={r.author}>
                 <div className="review-stars">★★★★★</div>
                 <p className="review-text">"{r.text}"</p>
                 <div className="review-author">{r.author}</div>
+                {r.meta && <div className="review-meta">{r.meta}</div>}
                 <div className="review-source">Google Review</div>
               </div>
             ))}
