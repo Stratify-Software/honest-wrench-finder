@@ -105,7 +105,7 @@ function Index() {
                 <span className="hero-stat-label">Google Rating</span>
               </div>
               <div className="hero-stat">
-                <span className="hero-stat-num">40+</span>
+                <span className="hero-stat-num">35</span>
                 <span className="hero-stat-label">Verified Reviews</span>
               </div>
               <div className="hero-stat">
