@@ -87,7 +87,7 @@ function Index() {
       <header id="top" className="hero">
         <div className="container hero-inner">
           <div>
-            <div className="hero-eyebrow">Halton Hills, ON · Since Day One</div>
+            <div className="hero-eyebrow">Halton Hills, ON</div>
             <h1 className="hero-h1">
               A Mechanic <br />
               You Can <em>Actually</em> Trust.
@@ -105,7 +105,7 @@ function Index() {
                 <span className="hero-stat-label">Google Rating</span>
               </div>
               <div className="hero-stat">
-                <span className="hero-stat-num">40+</span>
+                <span className="hero-stat-num">35</span>
                 <span className="hero-stat-label">Verified Reviews</span>
               </div>
               <div className="hero-stat">
@@ -201,7 +201,7 @@ function Index() {
           <div className="section-eyebrow">What Customers Say</div>
           <h2 className="section-h2">5 Stars. Every Single Time.</h2>
           <p className="section-lead">
-            40 Google reviews. Perfect rating. Here's what your neighbours are saying.
+            35 Google reviews. Perfect rating. Here's what your neighbours are saying.
           </p>
           <div className="reviews-grid">
             {reviews.map((r) => (
@@ -351,7 +351,7 @@ function Index() {
           <div className="final-cta-eyebrow">Halton Hills' Most Trusted Auto Shop</div>
           <h2>Your Car Deserves<br />an Honest Mechanic.</h2>
           <p>
-            Stop overpaying at the dealership. Stop gambling with shops that don't care. Book with Matt's and see why 40 neighbours gave a perfect 5-star rating.
+            Stop overpaying at the dealership. Stop gambling with shops that don't care. Book with Matt's and see why 30+ neighbours gave a perfect 5-star rating.
           </p>
           <a href="#book" className="btn btn--lg">Book My Appointment</a>
         </div>
@@ -373,7 +373,7 @@ function Index() {
               Get Directions
             </a>
           </div>
-          <div style={{ marginTop: 16 }}>© 2024 Matt's Auto Service Centre. All rights reserved.</div>
+          <div style={{ marginTop: 16 }}>© {new Date().getFullYear()} Matt's Auto Service Centre. All rights reserved.</div>
         </div>
       </footer>
     </>
