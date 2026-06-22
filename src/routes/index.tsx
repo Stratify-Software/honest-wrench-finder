@@ -351,7 +351,7 @@ function Index() {
           <div className="final-cta-eyebrow">Halton Hills' Most Trusted Auto Shop</div>
           <h2>Your Car Deserves<br />an Honest Mechanic.</h2>
           <p>
-            Stop overpaying at the dealership. Stop gambling with shops that don't care. Book with Matt's and see why 40 neighbours gave a perfect 5-star rating.
+            Stop overpaying at the dealership. Stop gambling with shops that don't care. Book with Matt's and see why 30+ neighbours gave a perfect 5-star rating.
           </p>
           <a href="#book" className="btn btn--lg">Book My Appointment</a>
         </div>
