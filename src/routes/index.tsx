@@ -201,7 +201,7 @@ function Index() {
           <div className="section-eyebrow">What Customers Say</div>
           <h2 className="section-h2">5 Stars. Every Single Time.</h2>
           <p className="section-lead">
-            40 Google reviews. Perfect rating. Here's what your neighbours are saying.
+            35 Google reviews. Perfect rating. Here's what your neighbours are saying.
           </p>
           <div className="reviews-grid">
             {reviews.map((r) => (
