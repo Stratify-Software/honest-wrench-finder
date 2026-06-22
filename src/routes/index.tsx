@@ -373,7 +373,7 @@ function Index() {
               Get Directions
             </a>
           </div>
-          <div style={{ marginTop: 16 }}>© 2024 Matt's Auto Service Centre. All rights reserved.</div>
+          <div style={{ marginTop: 16 }}>© {new Date().getFullYear()} Matt's Auto Service Centre. All rights reserved.</div>
         </div>
       </footer>
     </>
