@@ -87,7 +87,7 @@ function Index() {
       <header id="top" className="hero">
         <div className="container hero-inner">
           <div>
-            <div className="hero-eyebrow">Halton Hills, ON · Since Day One</div>
+            <div className="hero-eyebrow">Halton Hills, ON</div>
             <h1 className="hero-h1">
               A Mechanic <br />
               You Can <em>Actually</em> Trust.
