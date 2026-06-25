@@ -104,17 +104,14 @@ nav.site-nav {
   content: '';
   position: absolute;
   inset: 0;
-  background:
-    radial-gradient(ellipse 60% 60% at 80% 50%, rgba(192,57,43,0.12) 0%, transparent 70%),
-    repeating-linear-gradient(
-      -45deg,
-      transparent,
-      transparent 40px,
-      rgba(255,255,255,0.015) 40px,
-      rgba(255,255,255,0.015) 41px
-    );
+  background-image:
+    linear-gradient(90deg, rgba(15,15,15,0.92) 0%, rgba(15,15,15,0.75) 45%, rgba(15,15,15,0.45) 100%),
+    url('/__l5e/assets-v1/b32d5d3c-ba2d-4ee5-ad9f-4bd0ff78d15e/hero-bg.jpg');
+  background-size: cover;
+  background-position: center;
   pointer-events: none;
 }
+
 .hero-inner {
   display: grid;
   grid-template-columns: 1fr 1fr;
